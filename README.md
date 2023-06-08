@@ -10,8 +10,8 @@ Consistency is crucial for well-prepared datasets, both in terms of structure an
 When inspecting raw data from Excel files, two types of inconsistencies may be encountered: structure inconsistencies and content inconsistencies. The following approach involves addressing structure inconsistencies first, followed by resolving content inconsistencies.
 ### Structure inconsistencies
 Raw data can be organized in various ways, making it difficult to propose a generalized approach to address all structural inconsistencies. However, a combination of the following operations is typically sufficient to transform raw data into a structurally sound dataset:
-+Table transpositions
-+Column unpivoting
-+Column merging or splitting
-+Adding/removing columns or rows
-+Renaming headers
+- Table transpositions
+- Column unpivoting
+- Column merging or splitting
+- Adding/removing columns or rows
+- Renaming headers
