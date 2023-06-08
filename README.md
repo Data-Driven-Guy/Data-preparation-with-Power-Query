@@ -11,3 +11,11 @@ When inspecting raw data from Excel files, two types of inconsistencies may be e
 ### Structure inconsistencies
 Raw data can be organized in various ways, making it difficult to propose a generalized approach to address all structural inconsistencies. However, a combination of the following operations is typically sufficient to transform raw data into a structurally sound dataset:
 + Table transpositions
++ Column unpivoting
++ Column merging or splitting
++ Adding/removing columns or rows
++ Renaming headers
+To become proficient in determining the appropriate transformations to apply based on the structure of a raw Excel file, practical experience is necessary. To facilitate this process, we present two commonly encountered structural inconsistencies in raw Excel data and report their transformation into well-prepared datasets.
+Example 1 demonstrates the treatment of a common structural inconsistency where columns are associated with multiple levels of headers.
+Example 2 showcases the resolution of another structural issue involving the merging of multiple data entries into a single row.
+
