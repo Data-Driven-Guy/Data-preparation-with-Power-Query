@@ -20,7 +20,7 @@ To become proficient in determining the appropriate transformations to apply bas
 
 Example 1 demonstrates the treatment of a common structural inconsistency where columns are associated with multiple levels of headers.
 Example 2 showcases the resolution of another typical issue involving the merging of multiple data entries into a single row.
-### Content incosistencies
+### Content inconsistencies
 Once the table structure has been adjusted, the next step is to address content inconsistencies. The following are the most common adjustments to consider:
 + Removing duplicate records
 + Removing unnecessary spaces in cell values
