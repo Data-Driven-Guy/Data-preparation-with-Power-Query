@@ -19,5 +19,21 @@ Raw data can be organized in various ways, making it difficult to propose a gene
 To become proficient in determining the appropriate transformations to apply based on the structure of a raw Excel file, practical experience is necessary. To facilitate this process, we present two commonly encountered structural inconsistencies in raw Excel data and report their transformation into well-prepared datasets.
 
 Example 1 demonstrates the treatment of a common structural inconsistency where columns are associated with multiple levels of headers.
-Example 2 showcases the resolution of another structural issue involving the merging of multiple data entries into a single row.
+Example 2 showcases the resolution of another typical issue involving the merging of multiple data entries into a single row.
+### Content incosistencies
+Once the table structure has been adjusted, the next step is to address content inconsistencies. The following are the most common adjustments to consider:
++ Removing duplicate records
++ removing unnecessary spaces in cell values
++ correcting data format
++ handling missing values
++ removing special characters
++ standardasing text case
++ correcting typos
+
+Example 3 demonstrates how to clean a raw dataset by addressing content inconsistencies.
+
+
+
+
+
 
