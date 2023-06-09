@@ -23,17 +23,14 @@ Example 2 showcases the resolution of another typical issue involving the mergin
 ### Content incosistencies
 Once the table structure has been adjusted, the next step is to address content inconsistencies. The following are the most common adjustments to consider:
 + Removing duplicate records
-+ removing unnecessary spaces in cell values
-+ correcting data format
-+ handling missing values
-+ removing special characters
-+ standardasing text case
-+ correcting typos
++ Removing unnecessary spaces in cell values
++ Correcting data format
++ Handling missing values
++ Removing special characters
++ Standardasing text case
++ Correcting typos
 
 Example 3 demonstrates how to clean a raw dataset by addressing content inconsistencies.
-
-
-
 
 
 
