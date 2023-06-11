@@ -31,7 +31,7 @@ Once the table structure has been adjusted, the next step is to address content 
 + Standardasing text case
 + Correcting typos
 
-Example 3 demonstrates how to clean a raw dataset by addressing content inconsistencies.
+
 
 
 
